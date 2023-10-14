@@ -1,0 +1,14 @@
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.DS_Store
+
+index копія.html
+01.html
+02.html
+03.html
+04.html
+05.html
